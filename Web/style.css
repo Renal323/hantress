@@ -1,0 +1,119 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin:0;
+    background-color: #1F1F24;
+}
+
+header{
+    background-color: #905252;
+    height: 20%;
+    color: white;
+	padding: 20px;
+    
+}
+border{
+    color:#905252
+}
+
+nav {
+    background-color:#905252;
+    height: 40%;
+    color: white;
+    margin: 20px;
+	padding: 20px;
+}
+
+main {
+    
+    height: 40%;
+    color: white;
+    margin: 20px;
+	padding: 20px;
+}
+article {
+	background-color: #1F1F24;
+    margin: 10px;
+    height: 30%;
+    color: white;
+}
+footer{
+    background-color: #1F1F24;
+    height: 20%;
+    color: white;
+	padding: 20px;
+}
+
+li{
+     display: inline;
+}
+p{
+    font-size:20px;
+}
+img{
+    margin: 12px;
+}
+.as{
+    margin-top: 65px;
+}
+button{
+    margin-left: 180px;
+    font-size:20px;
+}
+
+
+h1{
+    font-size:100px;
+}
+.Web{
+    display: flex;
+    justify-content: space-around;
+
+}
+.art{
+    display: flex;
+    justify-content: space-around;
+    height: 80%;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+}
+.imas{
+    width: 400px;
+    border: 5px;
+}
+border{
+    color: #905252;
+}
+.v{
+    display: flex;
+    justify-content: left;
+}
+.col{
+    color: white;
+}
+h4{
+    font-size: 25px;
+}
+h3{
+    font-size: 30px;
+    color: white;
+}
+h2{
+    color: white;
+    display: block;
+    line-height: 1px ;
+    
+}
+.keter{
+    color: #905252;
+}
+.m{
+    width: 800px;
+    height: 300px;
+}
+.l{
+    display: flex;
+    justify-content: space-around;
+}
